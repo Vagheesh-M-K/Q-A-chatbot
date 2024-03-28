@@ -1,0 +1,12 @@
+langchain
+text splitter
+GoogleAI Embeddings
+FAISS vectorsearch
+indexes
+Google gemini-pro LLM
+QA_chain, langchain
+PromptTeamplate
+prompting
+streamlit
+
+Takes multiple PDFs to answer questions baswed on them
