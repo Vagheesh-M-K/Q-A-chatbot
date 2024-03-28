@@ -1,3 +1,4 @@
+# Developing a QA application based on LLM by implementing RAG Architecture and deploying it a web-application using streamlit
 # loading the environment_variables
 
 from dotenv import load_dotenv
